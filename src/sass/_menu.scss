@@ -1,0 +1,60 @@
+.menu {
+  grid-column: 1;
+  grid-row: 1 / -1;
+  padding-left: 2.4rem;
+  border-right: 1px solid $color-divider;
+
+  display: grid;
+  grid-template-columns: 6rem 1fr;
+  grid-template-rows: 10rem 1fr;
+  column-gap: 1rem;
+
+  &__logo {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    align-self: center;
+  }
+
+  &__title {
+    grid-column: 2;
+    grid-row: 1;
+    align-self: center;
+  }
+}
+
+.nav {
+  grid-column: span 2;
+  grid-row: 2;
+
+  &__title {
+    font-size: 1rem;
+    font-weight: 400;
+    color: $color-text-dark;
+    margin-bottom: 2rem;
+  }
+
+  &__list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+  }
+
+  &__btn {
+    all: unset;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+
+    span {
+      font-size: 1.4rem;
+    }
+  }
+
+  &__icon {
+    width: 2rem;
+    height: 2rem;
+    fill: $color-text-dark;
+  }
+}

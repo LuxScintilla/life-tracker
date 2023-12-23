@@ -1,0 +1,49 @@
+$color-container: #202028;
+$color-background: #2b2c36;
+
+$color-text-primary: #bcbcbc;
+$color-text-dark: #909090;
+
+$color-divider: #2b2c36;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: $color-text-primary;
+  background-color: $color-background;
+
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  max-width: 120rem;
+  min-height: 80rem;
+  background-color: $color-container;
+  overflow: hidden;
+  border-radius: 8px;
+
+  display: grid;
+  grid-template-columns: 24rem 1fr;
+  grid-template-rows: 10rem 1fr;
+}
