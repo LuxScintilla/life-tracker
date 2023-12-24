@@ -1,10 +1,16 @@
-$color-container: #202028;
-$color-background: #2b2c36;
+$color-container: #f5f6fb;
+$color-navigation: #252334;
+$color-navigation-dark: #13121a;
+$color-navigation-light: #3b3948;
+$color-body: #343643;
 
-$color-text-primary: #bcbcbc;
-$color-text-dark: #909090;
+$color-text-light: #bebdc2;
+$color-text-light-2: #92919a;
 
-$color-divider: #2b2c36;
+$color-text-dark: #282b30;
+$color-text-dark-2: #1c1e22;
+
+$color-accent: #5041c9;
 
 * {
   margin: 0;
@@ -26,8 +32,8 @@ body {
   font-family: sans-serif;
   font-weight: 400;
   line-height: 1.6;
-  color: $color-text-primary;
-  background-color: $color-background;
+  color: $color-text-light;
+  background-color: $color-body;
 
   height: 100vh;
 
@@ -37,13 +43,30 @@ body {
 }
 
 .container {
-  max-width: 120rem;
-  min-height: 80rem;
-  background-color: $color-container;
-  overflow: hidden;
-  border-radius: 8px;
-
   display: grid;
   grid-template-columns: 24rem 1fr;
-  grid-template-rows: 10rem 1fr;
+
+  max-width: 120rem;
+  min-height: 80rem;
+  background-image: linear-gradient(
+    to right,
+    $color-navigation 0% 15%,
+    $color-container 20% 100%
+  );
+  overflow: hidden;
+  border-radius: 16px;
+
+  box-shadow: 0px 0px 16px 8px rgba(0, 0, 0, 0.25);
+}
+
+.controls {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 24rem 1fr;
+
+  background-image: linear-gradient(to bottom, $color-navigation, #1a1924 90%);
+  overflow: hidden;
+  border-radius: 16px;
+
+  box-shadow: 16px 0px 16px 0px rgba(0, 0, 0, 0.25);
 }

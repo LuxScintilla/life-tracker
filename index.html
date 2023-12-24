@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="src/sass/main.scss" />
+  <script src="https://kit.fontawesome.com/9393d0e112.js" crossorigin="anonymous"></script>
   <script type="module" defer src="src/js/controller.js"></script>
 
   <title>Life-Tracker</title>
@@ -14,49 +15,57 @@
 <body>
 
   <div class="container">
-    <div class="menu">
-      <img class="menu__logo" src="src/img/weasel.png" alt="life tracker weasel logo">
-      <h1 class="menu__title">Life Tracker</h1>
 
-      <nav class="nav">
-        <h3 class="nav__title">Main Menu</h3>
-        <ul class="nav__list">
-          <li class="nav__item">
-            <button class="nav__btn nav__btn--active">
-              <img class="nav__icon" src="src/img/home.svg" alt="home icon">
-              <span>Home</span>
-            </button>
-          </li>
-          <li class="nav__item">
-            <button class="nav__btn nav__btn--active">
-              <img class="nav__icon" src="src/img/list.svg" alt="list icon">
-              <span>To Do Lists</span>
-            </button>
-          </li>
-          <li class="nav__item">
-            <button class="nav__btn nav__btn--active">
-              <img class="nav__icon" src="src/img/book.svg" alt="notes icon">
-              <span>Notes</span>
-            </button>
-          </li>
-          <li class="nav__item">
-            <button class="nav__btn nav__btn--active">
-              <img class="nav__icon" src="src/img/reader.svg" alt="stickies icon">
-              <span>Stickies</span>
-            </button>
-          </li>
-          <li class="nav__item">
-            <button class="nav__btn nav__btn--active">
-              <img class="nav__icon" src="src/img/wallet.svg" alt="finances icon">
-              <span>Finances</span>
-            </button>
-          </li>
-        </ul>
-      </nav>
+    <div class="controls">
+      <header class="header">
+
+        <div class="user">
+          <img class="user__avatar" src="src/img/avatar.jpg" alt="avatar picture">
+          <p class="user__name">User</p>
+          <button class="user__btn"><i class="fa-solid fa-gear"></i></button>
+        </div>
+
+        <div class="weather">
+          <img class="weather__img" src="src/img/weather-icon-temporary.png" alt="weather picture">
+          <p class="weather__date">24th December 2023</p>
+        </div>
+      </header>
+
+      <div class="navigation">
+
+        <nav class="nav">
+          <ul class="nav__list">
+            <li class="nav__item">
+              <button class="nav__btn nav__btn--active"><i class="nav__icon fa-solid fa-house"></i></button>
+            </li>
+            <li class="nav__item">
+              <button class="nav__btn"><i class="nav__icon fa-solid fa-list-check"></i></button>
+            </li>
+            <li class="nav__item">
+              <button class="nav__btn"><i class="nav__icon fa-solid fa-note-sticky"></i></button>
+            </li>
+            <li class="nav__item">
+              <button class="nav__btn"><i class="nav__icon fa-solid fa-coins"></i></button>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="subnav">
+          <p class="subnav__title">Home</p>
+          <ul class="subnav__list">
+            <li class="subnav__item">
+              <button class="subnav__btn subnav__btn--active">Overview</button>
+            </li>
+            <li class="subnav__item">
+              <button class="subnav__btn">News</button>
+            </li>
+          </ul>
+        </div>
+
+      </div>
     </div>
-    <header class="header">header</header>
-    <main class="main">content</main>
-  </div>
+
+    <main class="main">Content</main>
 
 </body>
 

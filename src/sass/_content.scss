@@ -1,13 +1,4 @@
 .main {
   grid-column: 2;
-  grid-row: 2;
-  background-image: linear-gradient(
-      to bottom,
-      rgba(32, 32, 40, 0.8),
-      $color-container 70%
-    ),
-    url("../img/nature-background.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  width: 100vw;
 }

@@ -1,23 +1,25 @@
-9602
-75/home/luxscintilla/my-files/portfolio/life-tracker/dist/reader.b96a565d.svg1703370551888070300 0
-73/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.e37f48ea.js1703370551888070300 0
-73/home/luxscintilla/my-files/portfolio/life-tracker/dist/book.cb0a4e19.svg1703370552008070300 0
-73/home/luxscintilla/my-files/portfolio/life-tracker/dist/list.fc3dc82d.svg1703370551888070300 0
+9605
+75/home/luxscintilla/my-files/portfolio/life-tracker/dist/reader.b96a565d.svg1703423906954498300 0
+73/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.e37f48ea.js1703447922744498300 0
+73/home/luxscintilla/my-files/portfolio/life-tracker/dist/book.cb0a4e19.svg1703423907004498300 0
+73/home/luxscintilla/my-files/portfolio/life-tracker/dist/list.fc3dc82d.svg1703423906954498300 0
+82/home/luxscintilla/my-files/portfolio/life-tracker/dist/subnav-svg-bg.05f8bbbe.svg1703447922724498300 0
 86/home/luxscintilla/my-files/portfolio/life-tracker/dist/nature-background.84b696ed.jpg1703370552018070300 0
+79/home/luxscintilla/my-files/portfolio/life-tracker/dist/gear-solid.bf792ac6.svg1703428129474498300 0
+75/home/luxscintilla/my-files/portfolio/life-tracker/dist/avatar.b3ec4b3d.jpg1703447922694498300 0
 61/home/luxscintilla/my-files/portfolio/life-tracker/.gitignore1703355823388070300 0
-83/home/luxscintilla/my-files/portfolio/life-tracker/src/img/home.svg:Zone.Identifier1703369844102149300 0
-69/home/luxscintilla/my-files/portfolio/life-tracker/src/img/wallet.svg1703370221936014800 0
-67/home/luxscintilla/my-files/portfolio/life-tracker/src/img/home.svg1703369844102149300 0
-85/home/luxscintilla/my-files/portfolio/life-tracker/src/img/wallet.svg:Zone.Identifier1703370221936014800 0
-69/home/luxscintilla/my-files/portfolio/life-tracker/src/img/reader.svg1703370175574975800 0
-58/home/luxscintilla/my-files/portfolio/life-tracker/src/img1703370455668070300 1
+69/home/luxscintilla/my-files/portfolio/life-tracker/src/img/avatar.jpg1703444356624986300 0
+85/home/luxscintilla/my-files/portfolio/life-tracker/src/img/weather-icon-temporary.png1703426593909643900 0
+184/home/luxscintilla/my-files/portfolio/life-tracker/src/img/148079368-hand-drawn-modern-woman-avatar-profile-icon-or-portrait-icon-user-flat-avatar-icon-sign-profile.jpg:Zone.Identifier1703444356624986300 0
+73/home/luxscintilla/my-files/portfolio/life-tracker/src/img/gear-solid.svg1703427860666525000 0
+58/home/luxscintilla/my-files/portfolio/life-tracker/src/img1703447456004498300 1
 67/home/luxscintilla/my-files/portfolio/life-tracker/src/js/config.js1703356005818070300 0
 75/home/luxscintilla/my-files/portfolio/life-tracker/src/js/views/todoView.js1703356107668070300 0
 75/home/luxscintilla/my-files/portfolio/life-tracker/src/js/views/homeView.js1703356074088070300 0
 66/home/luxscintilla/my-files/portfolio/life-tracker/src/js/model.js1703355962078070300 0
-70/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_menu.scss1703371741918070300 0
-73/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_content.scss1703368868268070300 0
-70/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_base.scss1703366530138070300 0
+73/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_content.scss1703424472914498300 0
+76/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_navigation.scss1703448596844498300 0
+70/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_base.scss1703448648144498300 0
 54/home/luxscintilla/my-files/portfolio/life-tracker/src1703355931598070300 1
 84/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/resolve-from/license1703357278788070300 0
 76/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/resolve-from1703357278788070300 1
@@ -224,6 +226,7 @@
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/modules/es.string.pad-start.js1703359597938070300 0
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/modules/esnext.map.group-by.js1703359597978070300 0
 110/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/modules/esnext.reflect.has-metadata.js1703359597988070300 0
+79/home/luxscintilla/my-files/portfolio/life-tracker/dist/nav-svg-bg.48a07564.png1703445558814498300 0
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/modules/es.string.search.js1703359597938070300 0
 110/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/modules/esnext.typed-array.group-by.js1703359597998070300 0
 97/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/modules/es.reflect.get.js1703359597928070300 0
@@ -779,7 +782,6 @@
 104/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/number/is-safe-integer.js1703359598208070300 0
 97/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/number/to-fixed.js1703359598428070300 0
 85/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/number1703359598438070300 1
-83/home/luxscintilla/my-files/portfolio/life-tracker/src/img/book.svg:Zone.Identifier1703370074712983300 0
 90/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/array/of.js1703359598298070300 0
 92/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/array/flat.js1703359598058070300 0
 92/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/es/string/replace.js1703359598348070300 0
@@ -1232,7 +1234,6 @@
 97/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/composite-key.js1703359597828070300 0
 108/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/reflect/has-own-metadata.js1703359598128070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/reflect/set.js1703359598368070300 0
-69/home/luxscintilla/my-files/portfolio/life-tracker/src/img/weasel.png1703367472979964800 0
 100/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/typed-array/reduce.js1703359598338070300 0
 105/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/reflect/is-extensible.js1703359598198070300 0
 113/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/reflect/get-own-metadata-keys.js1703359598098070300 0
@@ -1471,6 +1472,7 @@
 112/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/string/virtual/code-point-at.js1703359597818070300 0
 108/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/string/virtual/match-all.js1703359598268070300 0
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/string/virtual/sub.js1703359598418070300 0
+91/home/luxscintilla/my-files/portfolio/life-tracker/dist/weather-icon-temporary.8039ccf3.png1703447922684498300 0
 105/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/string/virtual/repeat.js1703359598338070300 0
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/string/virtual/sup.js1703359598418070300 0
 110/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/string/virtual/starts-with.js1703359598398070300 0
@@ -1660,6 +1662,7 @@
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/full/instance/trim-right.js1703359598478070300 0
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/array/find-last.js1703359598038070300 0
 93/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/full/instance/bind.js1703359597808070300 0
+79/home/luxscintilla/my-files/portfolio/life-tracker/dist/nav-svg-bg.adc65894.svg1703447922704498300 0
 103/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/full/instance/is-well-formed.js1703359598218070300 0
 98/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/string/pad-end.js1703359598298070300 0
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/full/instance/filter-reject.js1703359598028070300 0
@@ -2080,7 +2083,7 @@
 84/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@lmdb/lmdb-linux-x641703357279758070300 1
 94/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/actual/array/values.js1703359598498070300 0
 69/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@lmdb1703361635328070300 1
-75/home/luxscintilla/my-files/portfolio/life-tracker/dist/weasel.21b30bd1.png1703370551838070300 0
+75/home/luxscintilla/my-files/portfolio/life-tracker/dist/weasel.21b30bd1.png1703423906894498300 0
 85/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/argparse/CHANGELOG.md1703357279068070300 0
 84/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/argparse/argparse.js1703357278958070300 0
 85/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/argparse/package.json1703357279058070300 0
@@ -2201,7 +2204,7 @@
 106/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/es/string/virtual/code-point-at.js1703359597818070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/regions/PF.js1703357280308070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/regions/FO.js1703357280108070300 0
-61/home/luxscintilla/my-files/portfolio/life-tracker/index.html1703371360638070300 0
+61/home/luxscintilla/my-files/portfolio/life-tracker/index.html1703448185094498300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/regions/SM.js1703357280358070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/regions/TO.js1703357280388070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/regions/MK.js1703357280268070300 0
@@ -2433,7 +2436,7 @@
 103/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/internals/flatten-into-array.js1703359598068070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/regions/ZM.js1703357280438070300 0
 105/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/css-regions.js1703357279958070300 0
-59/home/luxscintilla/my-files/portfolio/life-tracker/src/sass1703364870328070300 1
+59/home/luxscintilla/my-files/portfolio/life-tracker/src/sass1703424707414498300 1
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/webgl.js1703357280418070300 0
 110/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/multibackgrounds.js1703357280278070300 0
 111/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/namevalue-storage.js1703357280288070300 0
@@ -2798,7 +2801,7 @@
 101/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/colr-v1.js1703357279748070300 0
 104/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/package-manager/lib/index.js.map1703357279658070300 0
 84/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@babel/highlight/lib1703357278798070300 1
-69/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/main.scss1703364884608070300 0
+69/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/main.scss1703424725754498300 0
 129/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/sortAttrs.js1703357279618070300 0
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/type-fest/source/conditional-keys.d.ts1703357279038070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/promise/try.js1703359598478070300 0
@@ -3823,7 +3826,7 @@
 104/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/actual/instance/last-index-of.js1703359598248070300 0
 101/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/parser1703357280078070300 1
 110/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/htmlnano/lib/modules/removeEmptyAttributes.cjs1703357279258070300 0
-78/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.f7626f62.css.map1703371741958070300 0
+78/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.f7626f62.css.map1703448648244498300 0
 90/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/utils/package.json1703357279788070300 0
 106/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/cjs/restructure/8-restructRuleset.cjs1703357279028070300 0
 109/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/utils/names.js1703357280038070300 0
@@ -3848,7 +3851,7 @@
 115/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/lexer/match-graph.js1703357280028070300 0
 103/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/packager-svg/lib/SVGPackager.js1703357278798070300 0
 98/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-tree/cjs/syntax/node/Ratio.cjs1703357279758070300 0
-72/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_header.scss1703368860918070300 0
+72/home/luxscintilla/my-files/portfolio/life-tracker/src/sass/_header.scss1703447698504498300 0
 82/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/tslib/tslib.es6.js1703357278858070300 0
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/array/virtual/splice.js1703359598398070300 0
 109/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/lexer/trace.js1703357280078070300 0
@@ -3918,7 +3921,8 @@
 88/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/es/array/flat.js1703359598058070300 0
 113/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/runtime-js/src/helpers/node/css-loader.js1703357279198070300 0
 120/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/syntax/node/WhiteSpace.js1703357280098070300 0
-66/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.html1703371360678070300 0
+66/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.html1703448185454498300 0
+76/home/luxscintilla/my-files/portfolio/life-tracker/src/img/subnav-svg-bg.svg1703447429498942300 0
 125/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/cjs/syntax/scope/atrulePrelude.cjs1703357279098070300 0
 115/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/syntax/node/Value.js1703357280088070300 0
 103/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/dist/data.js1703357279958070300 0
@@ -4149,7 +4153,7 @@
 83/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/nth-check/README.md1703357279168070300 0
 80/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/semver/functions1703357279418070300 1
 105/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@babel/highlight/node_modules/chalk/types1703357278948070300 1
-77/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.e37f48ea.js.map1703370551888070300 0
+77/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.e37f48ea.js.map1703447922744498300 0
 96/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/packager-js/src/utils.js1703357279268070300 0
 94/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/actual/string/blink.js1703359597808070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/regions/MU.js1703357280278070300 0
@@ -4164,6 +4168,7 @@
 106/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/utils/test/input/config/empty.json1703357279788070300 0
 96/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/number/range.js1703359598318070300 0
 109/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/utils/ident.js1703357279988070300 0
+82/home/luxscintilla/my-files/portfolio/life-tracker/dist/subnav-svg-bg.5fd34a15.png1703446290604498300 0
 114/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@babel/highlight/node_modules/color-name/README.md1703357278798070300 0
 97/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/es/array/last-index-of.js1703359598248070300 0
 104/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@babel/highlight/node_modules/color-name1703357278868070300 1
@@ -4458,7 +4463,6 @@
 115/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@swc/helpers/cjs/_class_private_field_loose_key.cjs1703357279218070300 0
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/math/fscale.js1703359598088070300 0
 133/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/css/definitions.json1703357279138070300 0
-85/home/luxscintilla/my-files/portfolio/life-tracker/src/img/reader.svg:Zone.Identifier1703370175574975800 0
 93/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@swc/helpers/scripts/build.js1703357279858070300 0
 98/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/symbol/species.js1703359598388070300 0
 125/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/definition-syntax/tokenizer.js1703357280078070300 0
@@ -4883,7 +4887,7 @@
 109/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/transformer-postcss/src/loadConfig.js1703357278918070300 0
 133/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/types.d.ts.map1703357279288070300 0
 103/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/mdn-data/css/index.js1703357278848070300 0
-55/home/luxscintilla/my-files/portfolio/life-tracker/dist1703371741958070300 1
+55/home/luxscintilla/my-files/portfolio/life-tracker/dist1703448648244498300 1
 92/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/full/math/signbit.js1703359598378070300 0
 113/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/runtime-js/lib/helpers/node/css-loader.js1703357279108070300 0
 141/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeUnknownsAndDefaults.js1703357279568070300 0
@@ -5843,7 +5847,6 @@
 108/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@swc/helpers/_/_async_generator/package.json1703357279918070300 0
 98/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/date/to-string.js1703359598458070300 0
 85/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/cjs/compress.cjs1703357279258070300 0
-80/home/luxscintilla/my-files/portfolio/life-tracker/src/img/nature-background.jpg1700837580712478600 0
 103/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/modules/esnext.iterator.take.js1703359597978070300 0
 110/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/cjs/utils/ident.cjs1703357279568070300 0
 101/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/es/typed-array/to-reversed.js1703359598448070300 0
@@ -6191,7 +6194,7 @@
 94/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/mdn-data/api1703357279228070300 1
 105/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/function/has-instance.js1703359598128070300 0
 89/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@lezer/lr/dist/index.d.ts1703357279118070300 0
-74/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.f7626f62.css1703371741948070300 0
+74/home/luxscintilla/my-files/portfolio/life-tracker/dist/index.f7626f62.css1703448648244498300 0
 107/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/css-paint-api.js1703357279948070300 0
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-tree/lib/syntax/atrule/media.js1703357280018070300 0
 121/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/package.json1703357279908070300 0
@@ -6279,6 +6282,7 @@
 106/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@swc/helpers/_/_class_apply_descriptor_get1703357279938070300 1
 88/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@swc/core-linux-x64-musl1703357278838070300 1
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-tree/lib/tokenizer/names.js1703357280028070300 0
+80/home/luxscintilla/my-files/portfolio/life-tracker/dist/svg-attempt.cc63950c.svg1703439278414498300 0
 116/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/syntax/node/String.js1703357280068070300 0
 96/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/msgpackr/dist/unpack-no-eval.cjs1703357279098070300 0
 85/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/utils/LICENSE1703357278848070300 0
@@ -7393,7 +7397,7 @@
 112/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/mdn-data/css/units.schema.json1703357279448070300 0
 94/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/core/lib/serializer.js1703357279948070300 0
 151/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/PseudoClassSelector.js1703357279858070300 0
-75/home/luxscintilla/my-files/portfolio/life-tracker/dist/wallet.b831ac92.svg1703370552008070300 0
+75/home/luxscintilla/my-files/portfolio/life-tracker/dist/wallet.b831ac92.svg1703423907004498300 0
 98/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/instance/unshift.js1703359598498070300 0
 93/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/core/lib/constants.js1703357279668070300 0
 98/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/core/lib/RequestTracker.js1703357279938070300 0
@@ -7835,6 +7839,7 @@
 108/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/scrollintoview.js1703357280348070300 0
 102/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/auxclick.js1703357279478070300 0
 143/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Declaration.js1703357279588070300 0
+93/home/luxscintilla/my-files/portfolio/life-tracker/src/img/gear-solid (1).svg:Zone.Identifier1703427860666525000 0
 142/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Percentage.js1703357279848070300 0
 94/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/math/hypot.js1703359598128070300 0
 141/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Dimension.js1703357279598070300 0
@@ -8486,6 +8491,7 @@
 76/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/lmdb/LICENSE1703357279258070300 0
 120/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/package-manager/test/fixtures/has-foo/subpackage1703357279578070300 1
 98/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/htmlnano/lib/modules/minifySvg.mjs1703357279788070300 0
+101/home/luxscintilla/my-files/portfolio/life-tracker/src/img/weather-icon-temporary.png:Zone.Identifier1703426593909643900 0
 112/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/es/object/get-own-property-descriptor.js1703359598098070300 0
 90/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/full/math/acosh.js1703359597748070300 0
 92/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/ordered-binary/tests/test.js1703357279008070300 0
@@ -8560,7 +8566,6 @@
 95/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/full/string/fontsize.js1703359598068070300 0
 114/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/intersectionobserver.js1703357280188070300 0
 108/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/lmdb/dependencies/v8/v8-fast-api-calls-v16.h1703357279938070300 0
-83/home/luxscintilla/my-files/portfolio/life-tracker/src/img/list.svg:Zone.Identifier1703370027773303700 0
 104/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/lmdb/dependencies/lmdb-data-v1/libraries1703357278758070300 1
 104/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-tree/cjs/syntax/node/Parentheses.cjs1703357279728070300 0
 116/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/LICENSE1703357278758070300 0
@@ -8640,7 +8645,6 @@
 115/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/posthtml/node_modules/posthtml-parser/dist/index.js1703357278828070300 0
 96/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/array/iterator.js1703359598228070300 0
 117/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/posthtml/node_modules/posthtml-parser/dist/index.d.ts1703357278928070300 0
-67/home/luxscintilla/my-files/portfolio/life-tracker/src/img/book.svg1703370074712983300 0
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/array/last-item.js1703359598248070300 0
 128/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/posthtml/node_modules/posthtml-parser/dist/location-tracker.d.ts1703357278948070300 0
 101/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/proposals/string-match-all.js1703359598408070300 0
@@ -8975,7 +8979,6 @@
 113/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/generator/index.js1703357279998070300 0
 124/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-select/node_modules/domutils/lib/esm/manipulation.js.map1703357279368070300 0
 115/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-select/node_modules/domutils/lib/esm/index.d.ts1703357279478070300 0
-67/home/luxscintilla/my-files/portfolio/life-tracker/src/img/list.svg1703370027773303700 0
 78/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/lmdb/README.md1703357279998070300 0
 121/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-select/node_modules/domutils/lib/esm/stringify.js.map1703357279408070300 0
 126/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/css-select/node_modules/domutils/lib/esm/manipulation.d.ts.map1703357279358070300 0
@@ -9168,6 +9171,7 @@
 73/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/path-type1703357278808070300 1
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/actual/reflect/construct.js1703359597828070300 0
 86/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/update-browserslist-db1703357278878070300 1
+73/home/luxscintilla/my-files/portfolio/life-tracker/src/img/nav-svg-bg.svg1703441271356861200 0
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/update-browserslist-db/package.json1703357278858070300 0
 103/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/instance/reduce-right.js1703359598328070300 0
 94/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/htmlparser2/lib/Tokenizer.d.ts1703357279158070300 0
@@ -9571,7 +9575,6 @@
 101/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/css-has.js1703357279908070300 0
 100/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/features/array/last-index.js1703359598248070300 0
 112/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/unhandledrejection.js1703357280398070300 0
-151/home/luxscintilla/my-files/portfolio/life-tracker/src/img/vecteezy_serenity-and-peace-with-this-breathtaking-4k-wallpaper_26481532.jpg:Zone.Identifier1700837580712478600 0
 123/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/csso/node_modules/css-tree/lib/utils/create-custom-error.js1703357279898070300 0
 147/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/@parcel/core/test/fixtures/local-plugin-config-pkg/node_modules/parcel-config-local1703357280078070300 1
 87/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/sass/types/options.d.ts1703361554768070300 0
@@ -9582,7 +9585,7 @@
 92/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/actual/math/index.js1703359598148070300 0
 106/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/do-not-track.js1703357280048070300 0
 106/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/css-overflow.js1703357279948070300 0
-73/home/luxscintilla/my-files/portfolio/life-tracker/dist/home.706f4d77.svg1703370552008070300 0
+73/home/luxscintilla/my-files/portfolio/life-tracker/dist/home.706f4d77.svg1703423907004498300 0
 99/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/forms.js1703357280118070300 0
 97/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/caniuse-lite/data/features/url.js1703357280398070300 0
 91/home/luxscintilla/my-files/portfolio/life-tracker/node_modules/core-js/stable/math/sinh.js1703359598378070300 0
